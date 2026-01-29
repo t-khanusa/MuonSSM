@@ -1,0 +1,12 @@
+{
+  "num_captures": 431,
+  "total_steps": 2150,
+  "mean_gram_error_before_ns": 0.9682458513816106,
+  "mean_gram_error_after_ns": 0.9682363999311719,
+  "std_gram_error_before_ns": 9.29948951150031e-09,
+  "std_gram_error_after_ns": 3.107450878783269e-06,
+  "mean_condition_before": 5443515.340129489,
+  "mean_condition_after": 118302.64336634235,
+  "improvement_ratio": 1.0000096582296158,
+  "condition_reduction": 46.01347176384051
+}

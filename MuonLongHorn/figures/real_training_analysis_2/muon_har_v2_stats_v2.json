@@ -1,0 +1,14 @@
+{
+  "num_captures": 647,
+  "total_steps": 12920,
+  "mean_condition_before": 3127917516.3649693,
+  "mean_condition_after": 15863077.51752729,
+  "condition_reduction_factor": 197.1822625785494,
+  "median_condition_before": 3007311578.612137,
+  "median_condition_after": 23455.52796479016,
+  "mean_gram_error_before": 3.87278532613374,
+  "mean_gram_error_after": 3.872168537407791,
+  "gram_error_reduction": 1.000159287649795,
+  "relative_sv_std_before": 0.24206146597862244,
+  "relative_sv_std_after": 0.2415318787097931
+}

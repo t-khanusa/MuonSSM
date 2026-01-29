@@ -1,0 +1,15 @@
+{
+  "num_captures": 44,
+  "total_steps": 2150,
+  "mean_gram_error_before_ns": 0.9921565960076723,
+  "mean_gram_error_after_ns": 7.936156241731211,
+  "std_gram_error_before_ns": 7.210654162112557e-08,
+  "std_gram_error_after_ns": 0.0004991804277305116,
+  "mean_condition_before": 4809446.950906927,
+  "mean_condition_after": 1369414.423656117,
+  "mean_participation_rank_before": 1.0,
+  "mean_participation_rank_after": 1.0016673803329468,
+  "improvement_ratio": 0.12501726947975436,
+  "condition_reduction": 3.512046366552883,
+  "participation_rank_increase": 1.0016672611236572
+}
