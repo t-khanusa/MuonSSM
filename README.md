@@ -1,4 +1,4 @@
-# MuonSSM: Orthogonalizing State Space Models for Sequence Modeling
+# MuonSSM: Orthogonalizing State Space Models for Sequence Modeling (ICML 2026 ORAL)
 
 <p align="center">
   <img src="image/MuonSSM_architecture.png" width="80%" alt="MuonSSM Architecture">
